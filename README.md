@@ -3,7 +3,7 @@ These two words were the first thing I ever printed on a screen when I started c
 
 Currently, I’m a second-year undergraduate in **_Software Engineering (Hons.),_** exploring various fields in computer science. I believe that learning has no limits and this is the perfect time to dive into everything, experiment and find what truly excites me.
 
-***Positions***
+### Positions
 
 Project Manager(Science and Technology) - UNESCO, UTM [2024-current]
 
@@ -25,3 +25,10 @@ Core Member(Entrepreneurial Unit) - Google Developer Student Club, UTM [2023-202
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+### Uni-Life Balance
+- Hiked Mount Bromo, which is an active volcano in Indonesia's Bromo Tengger Semeru National Park.
+- Section Leader for Stanford's Code in Place, assisted 10 students from various cultural backgrounds in their mastery of python.
+- Externship at HP Tech Ventures as an Extern,presented on a startup with data-supported business intelligence.
+- Day-trips to Genting Highlands and Singapore.
+- Spent a thrilling week with foster family @ Kelantan.
+- Experienced the culture of Malang with locals.
