@@ -1,7 +1,13 @@
 ## Hello World!
 These two words were the first thing I ever printed on a screen when I started coding—just like many others. I wrote my first `Hello World!` in HTML back in Grade 8, and since then, I’ve been passionate about writing code and exploring exciting new technologies
 
-Currently, I’m a second-year undergraduate in **_Software Engineering (Hons.),_** exploring various fields in computer science. I believe that learning has no limits and this is the perfect time to dive into everything, experiment, and find what truly excites me.
+Currently, I’m a second-year undergraduate in **_Software Engineering (Hons.),_** exploring various fields in computer science. I believe that learning has no limits and this is the perfect time to dive into everything, experiment and find what truly excites me.
+
+**Positions**
+
+Project Manager(Science and Technology) - UNESCO, UTM [2024-current]
+
+Core Member(Entrepreneurial Unit) - Google Developer Student Club, UTM [2023-2024]
 
 ### Projects
 - **[BusFlex](https://github.com/AStanveer/BusFlex)** : A automated system designed to solve the problem of manual bus renting.
