@@ -3,7 +3,7 @@ These two words were the first thing I ever printed on a screen when I started c
 
 Currently, I’m a second-year undergraduate in **_Software Engineering (Hons.),_** exploring various fields in computer science. I believe that learning has no limits and this is the perfect time to dive into everything, experiment and find what truly excites me.
 
-**Positions**
+***Positions***
 
 Project Manager(Science and Technology) - UNESCO, UTM [2024-current]
 
