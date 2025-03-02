@@ -34,3 +34,4 @@ Core Member(Entrepreneurial Unit) - Google Developer Student Club, UTM [2023-202
 - Day-trips to Genting Highlands and Singapore.
 - Spent a thrilling week with foster family @ Kelantan.
 - Experienced the culture of Malang with locals.
+- Placed 4th in a 10 hours coding competition @UTM (HackerRank platform was used for the competition)
