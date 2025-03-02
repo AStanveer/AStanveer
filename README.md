@@ -18,6 +18,8 @@ Core Member(Entrepreneurial Unit) - Google Developer Student Club, UTM [2023-202
 - **[Hall Booking System](https://github.com/AStanveer/UTM-Hall-Booking)** : The principles of C++ OOP have been demonstrated in this project for Booking Halls for events for UTM.
 - **[KADA Koperasi](https://github.com/AStanveer/KADA-Koperasi)** : System Analysis and Design Project for the digital tranformation KADA Koperasi.
 - **[CODE](https://github.com/AStanveer/CODE)** : An extended abstract for the International Extended Abstract Competition by Student Research Group (K-RISMA) of the Faculty of Computer Science at Universitas Brawijaya.
+- **[Student Accommodation Survey](https://github.com/AStanveer/StudentAccommodation)** : This study investigates the intricacies of student housing, with a specific focus on the distinctions between on-campus and off-campus accommodations.
+- **[Lung Cancer Survival Analysis](https://github.com/AStanveer/LungCancerDataAnalysis)** : This study researches the impact of various factors on the survival rate of lung cancer patients. 
 
 
 ### Tech Stack
