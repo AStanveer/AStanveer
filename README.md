@@ -10,6 +10,9 @@ Project Manager(Science and Technology) - UNESCO, UTM [2024-2025]
 Core Member(Entrepreneurial Unit) - Google Developer Student Club, UTM [2023-2024]
 
 ### Projects
+- **[MindCare](https://github.com/AStanveer/MindCare.git)** : MVC archietecture based three users system for mental health care for university students.
+- **[Pillora](https://github.com/AStanveer/DevCrafters.git)** : React Native app with Supabase for medicine tracking and refilling.
+- **[RAG Pipeline](https://github.com/AStanveer/RAG_Pipeline.git)** :A multi-document RAG system for intelligent PDF analysis and question answering.
 - **[Campus Quest](https://github.com/AStanveer/Mario)** : Interactive game blending univeristy elements inspired by classic Mario.
 - **[Mindly](https://github.com/AStanveer/Mindly)** : A digital platform for higher education students to address their mental health challenges through their educational life.
 - **[BusFlex](https://github.com/AStanveer/BusFlex)** : A automated system designed to solve the problem of manual bus renting.
