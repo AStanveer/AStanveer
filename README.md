@@ -1,41 +1,83 @@
 ## Hello World!
-These two words were the first thing I ever printed on a screen when I started coding; just like many others. I wrote my first `Hello World!` in HTML back in Grade 8, and since then, I’ve been passionate about writing code and exploring exciting new technologies
 
-Currently, I’m a final-year undergraduate in **_Software Engineering (Hons.),_** exploring various fields in computer science. I believe that learning has no limits and this is the perfect time to dive into everything, experiment and find what truly excites me.
+These two words were the first thing I ever printed on a screen when I started coding back in Grade 8. Since then, I've been building things that solve real problems — from AI systems that process documents to platforms that support student mental health.
 
-### Positions
+I'm a final-year Software Engineering (Hons.) student at Universiti Teknologi Malaysia (CGPA 3.92/4.00, 5x Dean's List). I build across the stack — AI pipelines, full-stack web apps, mobile apps, and databases. I care about shipping things that actually work and are easy to use.
 
-Project Manager(Science and Technology) - UNESCO, UTM [2024-2025]
+### Currently Working On
+- **SafeSpace** — Bullying intervention and accountability platform for schools (Final Year Project)
 
-Core Member(Entrepreneurial Unit) - Google Developer Student Club, UTM [2023-2024]
+### Experience
 
-### Projects
-- **[MindCare](https://github.com/AStanveer/MindCare.git)** : MVC archietecture based three users system for mental health care for university students.
-- **[Pillora](https://github.com/AStanveer/DevCrafters.git)** : React Native app with Supabase for medicine tracking and refilling.
-- **[RAG Pipeline](https://github.com/AStanveer/RAG_Pipeline.git)** :A multi-document RAG system for intelligent PDF analysis and question answering.
-- **[Campus Quest](https://github.com/AStanveer/Mario)** : Interactive game blending univeristy elements inspired by classic Mario.
-- **[Mindly](https://github.com/AStanveer/Mindly)** : A digital platform for higher education students to address their mental health challenges through their educational life.
-- **[BusFlex](https://github.com/AStanveer/BusFlex)** : A automated system designed to solve the problem of manual bus renting.
-- **[N28B](https://github.com/AStanveer/N28B)** : Networking Infrastructure design for the new Block N28B, built for the Faculty of Computing.
-- **[Laundrify](https://github.com/AStanveer/Laundrify)** : The Laundrify App was designed to ease the hassle of doing laundry.
-- **[Vending machine using C++](https://github.com/AStanveer/Vending-machine-using-C-)** : Demonstration of an automated vending machine using C++.
-- **[Hall Booking System](https://github.com/AStanveer/UTM-Hall-Booking)** : The principles of C++ OOP have been demonstrated in this project for Booking Halls for events for UTM.
-- **[KADA Koperasi](https://github.com/AStanveer/KADA-Koperasi)** : System Analysis and Design Project for the digital tranformation KADA Koperasi.
-- **[CODE](https://github.com/AStanveer/CODE)** : An extended abstract for the International Extended Abstract Competition by Student Research Group (K-RISMA) of the Faculty of Computer Science at Universitas Brawijaya.
-- **[Student Accommodation Survey](https://github.com/AStanveer/StudentAccommodation)** : This study investigates the intricacies of student housing, with a specific focus on the distinctions between on-campus and off-campus accommodations.
-- **[Lung Cancer Survival Analysis](https://github.com/AStanveer/LungCancerDataAnalysis)** : This study researches the impact of various factors on the survival rate of lung cancer patients. 
+**AI Engineering Intern** — Outamation *(Aug 2025 – Oct 2025)*
+Built RAG-powered document intelligence pipelines using Python, OCR, and LLMs.
 
+**Business Analytics Extern** — HP Tech Ventures *(Jul 2024 – Aug 2024)*
+Researched 30+ startups and built dashboards to support VC investment decisions.
+
+**Technical Manager** — Develop for Good *(May 2026 – Jun 2026)*
+Led technical planning and milestone scoping for an MVP delivering to a nonprofit client.
+
+**Section Leader, Python** — Stanford University Code in Place *(Apr 2024 – May 2024)*
+Taught Python to a global cohort of CS106A students.
+
+### Selected Projects
+
+- **[DHL SOP Automator](https://github.com/AStanveer/dhl-sop-automator)** — Full-stack RPA system with Gemini AI and UiPath for automating knowledge article creation.
+- **[Pillora](https://github.com/AStanveer/DevCrafters)** — Cross-platform React Native app for medication identification and refill tracking.
+- **[MindCare](https://github.com/AStanveer/MindCare)** — Java Spring MVC mental health platform with Hibernate and MySQL.
+- **[RAG Pipeline](https://github.com/AStanveer/RAG_Pipeline)** — Multi-document retrieval system using FAISS, LlamaIndex, and open-source LLMs.
+- **[BusFlex](https://github.com/AStanveer/BusFlex)** — MySQL database system built for a real client (JMY Transport Malaysia).
+- **[Lung Cancer Survival Analysis](https://github.com/AStanveer/LungCancerDataAnalysis)** — Statistical analysis of 100+ patient records in R.
+
+*Other coursework projects: [Mindly](https://github.com/AStanveer/Mindly), [Campus Quest](https://github.com/AStanveer/Mario), [Laundrify](https://github.com/AStanveer/Laundrify), [UTM Hall Booking](https://github.com/AStanveer/UTM-Hall-Booking)*
 
 ### Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Uni-Life Balance
-- Hiked Mount Bromo, which is an active volcano in Indonesia's Bromo Tengger Semeru National Park.
-- Section Leader for Stanford's Code in Place, assisted 10 students from various cultural backgrounds in their mastery of python.
-- Externship at HP Tech Ventures as an Extern,presented on a startup with data-supported business intelligence.
-- Day-trips to Genting Highlands and Singapore.
-- Spent a thrilling week with foster family @ Kelantan.
-- Experienced the culture of Malang with locals.
-- Placed 4th in a 10 hours coding competition @UTM (HackerRank platform was used for the competition)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**AI / Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![LookerStudio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+**Full-Stack & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+
+### Leadership
+- **Project Manager** — UNESCO UTM (2024–2025)
+- **Core Member** — Google Developer Student Clubs UTM (2024–2025), Top Performer & Best Rookie
+- **Section Leader** — Stanford Code in Place (2024)
+
+### A Little More About Me
+- Hiked Mount Bromo, an active volcano in Indonesia
+- Taught Python to students from 10+ countries through Stanford's Code in Place
+- Placed 4th in a 10-hour HackerRank coding competition at UTM
+- Spent a week with a foster family in Kelantan and experienced Malang culture with locals
+
+### Connect
+[Portfolio](https://astanveer.github.io) · [LinkedIn](https://linkedin.com/in/anjum-t) 
