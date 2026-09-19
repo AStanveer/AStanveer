@@ -1,7 +1,7 @@
 ## Hello World!
 These two words were the first thing I ever printed on a screen when I started coding; just like many others. I wrote my first `Hello World!` in HTML back in Grade 8, and since then, I’ve been passionate about writing code and exploring exciting new technologies
 
-Currently, I’m a third-year undergraduate in **_Software Engineering (Hons.),_** exploring various fields in computer science. I believe that learning has no limits and this is the perfect time to dive into everything, experiment and find what truly excites me.
+Currently, I’m a final-year undergraduate in **_Software Engineering (Hons.),_** exploring various fields in computer science. I believe that learning has no limits and this is the perfect time to dive into everything, experiment and find what truly excites me.
 
 ### Positions
 
